@@ -7,25 +7,18 @@ body{
 
 h1{
     margin-bottom:80px;
-    color:green;
+    color:rgb(32, 196, 114);
     font-size:70px;
     text-align:center;
 }
 
 p{
-    font-size:25px;
+    font-size:18px;
 }
 
-#question{
-    color:blue;
-    margin-top:70px;
-}
 
 li{
     font-size:16px;
     margin-bottom:20px;
 }
 
-#estrategias{
-    font-size:20px;
-}
