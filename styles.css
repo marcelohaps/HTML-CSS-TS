@@ -1,17 +1,31 @@
 body{
     font-family:sans-serif;
+    background-color:lightgrey;
 
 }
 
 
 h1{
-    font-family:sans-serif;
-    text-align:center;
-    margin-bottom:20px;
+    margin-bottom:80px;
     color:green;
     font-size:70px;
+    text-align:center;
 }
 
 p{
+    font-size:25px;
+}
+
+#question{
+    color:blue;
+    margin-top:70px;
+}
+
+li{
+    font-size:16px;
+    margin-bottom:20px;
+}
+
+#estrategias{
     font-size:20px;
 }
